@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "this is a small example on how to use expressjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcocastillo2506/express.git"
+  },
+  "author": "Marco Castillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcocastillo2506/express/issues"
+  },
+  "homepage": "https://github.com/marcocastillo2506/express#readme"
+}
